@@ -35,7 +35,7 @@ $config['base_url'] = 'https://uci-cki-website-prototype.herokuapp.com/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = '';
+$config['index_page'] = 'login.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -517,5 +517,5 @@ $config['proxy_ips'] = '';
  define('DB_PASSWORD', 'rootpassword');
  define('DB_DATABASE', 'database');
  $db = mysqli_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
- 
+
 ?>
