@@ -45,8 +45,8 @@ body {
       <form class="login-form" method="post" action="<?=base_url('login');?>">
         <div class="row">
           <div class="input-field col s12 center">
-            <img src="<?=base_url('assets/img/logo-x.png');?>" alt="" class="responsive-img valign profile-image-login">
-            <p class="center login-form-text">Codeigniter 3.x OAUTH App Demo</p>
+            <img src="<?=base_url('assets/img/cnhcki.png');?>" alt="" class="responsive-img valign profile-image-login">
+            <p class="center login-form-text">UC Irvine Circle K</p>
           </div>
         </div>
         <div class="row margin">
@@ -72,19 +72,6 @@ body {
         </div>
 
         <hr>
-
-        <div class="row">
-          <div class="input-field col s12">
-            <a href="<?=$googelAuthUrl;?>"><img src="<?=base_url('assets/img/glogin.png');?>" alt="google" class="responsive-img valign profile-image-login"/></a>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="input-field col s12">
-            <a href="<?=$facebookAuthUrl;?>"><img src="<?=base_url('assets/img/flogin.png');?>" alt="facebook" class="responsive-img valign profile-image-login"/></a>
-          </div>
-        </div>
-
 
         <div class="row">
           <div class="input-field col s6 m6 l6">
