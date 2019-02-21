@@ -27,7 +27,7 @@ body {
     display: table-cell;
     vertical-align: middle;
 }
-#page-footer {
+.page-footer {
   text-align: center;
 background: white;
 }
