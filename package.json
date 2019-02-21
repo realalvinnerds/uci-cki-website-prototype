@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/realalvinnerds/uci-cki-website-prototype/issues"
   },
-  "homepage": "https://github.com/realalvinnerds/uci-cki-website-prototype#readme"
+  "homepage": "https://github.com/realalvinnerds/uci-cki-website-prototype#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
