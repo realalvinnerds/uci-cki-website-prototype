@@ -107,12 +107,12 @@ background: white;
     <strong><h5 style="margin-bottom: 0; color: #231F20">Connect With UCI CKI</h5></strong>
     <a href="#contacts"></a>
 
-    <a href="http://www.ucicirclek.com/facebook/" class="fa fa-facebook"></a>
-    <a href="http://www.ucicirclek.com/instagram/" class="fa fa-instagram"></a>
-    <a href="http://www.ucicirclek.com/tumblr/" class="fa fa-tumblr"></a>
-    <a href="http://www.ucicirclek.com/flickr/" class="fa fa-flickr"></a>
-    <a href="http://www.ucicirclek.com/snapchat/" class="fa fa-snapchat-ghost"></a>
-    <a href="http://www.ucicirclek.com/youtube/" class="fa fa-youtube"></a>
+    <a href="http://www.ucicirclek.com/facebook/" class="fa fa-facebook" style="width:40px;"></a>
+    <a href="http://www.ucicirclek.com/instagram/" class="fa fa-instagram" style="width:40px;"></a>
+    <a href="http://www.ucicirclek.com/tumblr/" class="fa fa-tumblr" style="width:40px;"></a>
+    <a href="http://www.ucicirclek.com/flickr/" class="fa fa-flickr" style="width:40px;"></a>
+    <a href="http://www.ucicirclek.com/snapchat/" class="fa fa-snapchat-ghost" style="width:40px;"></a>
+    <a href="http://www.ucicirclek.com/youtube/" class="fa fa-youtube" style="width:40px;"></a>
     </center>
  </footer>
 </body>
