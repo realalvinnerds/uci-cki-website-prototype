@@ -27,6 +27,10 @@ body {
     display: table-cell;
     vertical-align: middle;
 }
+#page-footer {
+  text-align: center;
+background: white;
+}
 .margin {
   margin: 0 !important;
 }
