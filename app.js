@@ -10,12 +10,14 @@ app.use("/scripts", express.static(__dirname + '/scripts'));
 
 // viewed at based directory http://localhost:8080/
 app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname + 'views/index.html'));
+  res.sendFile(path.join(__dirname + '/views/index.html'));
 });
 
 // add other routes below
 app.get('/about', function (req, res) {
-  res.sendFile(path.join(__dirname + 'views/about.html'));
+  res.sendFile(path.join(__dirname + '/views/about.html'));
 });
 
-app.listen(process.env.PORT || 8080);
+app.listen(process.env.PORT || 8080, function () {
+  console.log('Listening on port 8080!');
+});
