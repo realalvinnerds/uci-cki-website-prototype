@@ -4,13 +4,16 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Codeigniter 3 OAUTH App - Login</title>
+  <title>UC Irvine Circle K International</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <!-- CORE CSS-->
-  
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css">
 
   <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
-  
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
@@ -31,7 +34,7 @@ body {
   margin: 0 !important;
 }
 </style>
-  
+
 </head>
 
 <body class="red">
@@ -60,11 +63,11 @@ body {
             <label for="password">Password</label>
           </div>
         </div>
-        
+
         <div class="row">
           <div class="input-field col s12">
           <button type="submit" class="btn waves-effect waves-light col s12">Login</button>
-          	
+
           </div>
         </div>
 
@@ -89,7 +92,7 @@ body {
           </div>
           <div class="input-field col s6 m6 l6">
               <p class="margin right-align medium-small"><a href="<?=base_url('forgot_password');?>">Forgot password?</a></p>
-          </div>          
+          </div>
         </div>
 
       </form>
@@ -106,7 +109,7 @@ body {
   <!--materialize js-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>
 
-  
+
    <footer class="page-footer">
           <div class="footer-copyright">
             <div class="container">
